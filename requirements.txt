@@ -11,3 +11,4 @@ pypdf
 faiss-cpu 
 python-multipart
 sentence-transformers
+transformers
